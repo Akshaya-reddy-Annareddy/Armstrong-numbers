@@ -1,2 +1,2 @@
 # Armstrong-numbers
-A program to check whether the given number is Armstrong or not.
+A program to display all the Armstrong numbers within the given range.
